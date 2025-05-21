@@ -3,5 +3,6 @@ public class App {
         System.out.println("Hola, soy Daniel");
         System.out.println("Hola, yo soy Ronald");
         System.out.println("Hola, estoy en la rama develop");
+        String s="Conflicto";
     }
 }
