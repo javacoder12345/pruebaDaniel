@@ -9,5 +9,6 @@ public class App {
         System.out.println("HOla");
         System.out.println("Hola2");
         System.out.println("Hola mundo");
+        String s3="";
     }
 }
